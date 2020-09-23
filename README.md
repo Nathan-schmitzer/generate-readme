@@ -1,6 +1,6 @@
-# 
+# My personal generate README file
 ## Description: 
-
+An app that can dynamically create a readme with proper markdown.
 ##Table of contents:
 ### 1.[Installation](#installation)
 ### 2.[Usage](#usage)
@@ -12,14 +12,15 @@
 ## Installation: 
 
 ## Usage: 
-
+The use of this app is to make it simpler to create a professional readme markdown for your repositories
 ## Contributing: 
 
 ## Feedback: 
 
 ## License: 
-![License](https://img.shields.io/static/v1?label=License&message=MIT&color=brightgreen)
+![License](https://img.shields.io/static/v1?label=License&message=MIT&color=success)
 
 ## Github username: 
-
-## Email link: 
+nathan-schmitzer
+## For any questions send an email to: 
+nathan.schmitzer@yahoo.com

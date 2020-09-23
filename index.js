@@ -29,7 +29,7 @@ function promptUser() {
     }, {
         type: "input",
         name: "tests",
-        message: "How will you report issues?"
+        message: "Issues needed to be reported?"
     }, {
         type: "list",
         name: "license",
@@ -72,7 +72,7 @@ ${answers.tests}
 
 ## Github username: 
 ${answers.github}
-## Email link: 
+## For any questions send an email to: 
 ${answers.email}`;
     
         
