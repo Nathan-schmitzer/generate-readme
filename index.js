@@ -57,6 +57,8 @@ function generateREADME(answers) {
     return `# ${answers.title}
 ## Description: 
 ${answers.description}
+##Table of contents:
+${generateTableOfContents}
 ## Installation: 
 ${answers.installation}
 ## Usage: 
@@ -76,6 +78,16 @@ ${answers.email}`;
         
 
 };
+
+function generateTableOfContents () {
+`### 1.[Installation](#installation)
+### 2.[Usage](#usage)
+### 3.[Contributing](#contributing)
+### 4.[Feedback](#feedback)
+### 5.[License](#license)
+### 6.[Github Username](#githubusername)
+### 7.[Email link](#emaillink)`
+}
 
 async function init() {
     console.log("Hello from init!");

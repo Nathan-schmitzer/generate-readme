@@ -1,18 +1,27 @@
-# Generate readme file
+# 
 ## Description: 
-This is an app that is used for easily creating professional readmes
+
+##Table of contents:
+function generateTableOfContents () {
+### 1.[Installation](#installation)
+### 2.[Usage](#usage)
+### 3.[Contributing](#contributing)
+### 4.[Feedback](#feedback)
+### 5.[License](#license)
+### 6.[Github Username](#githubusername)
+### 7.[Email link](#emaillink)`
+}
 ## Installation: 
 
 ## Usage: 
-The use of this app is to help generate a profesional readme file, quickly and easily
+
 ## Contributing: 
 
 ## Feedback: 
 
 ## License: 
-![License](https://img.shields.io/static/v1?label=License&message=MIT&color=critical)
+![License](https://img.shields.io/static/v1?label=License&message=MIT&color=brightgreen)
 
 ## Github username: 
-nathan-schmitzer
+
 ## Email link: 
-nathan.schmitzer@yahoo.com
